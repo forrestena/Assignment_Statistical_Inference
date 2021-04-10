@@ -39,7 +39,7 @@ Theo_Var
 Actu_Var
 
 #### Q3
-##### Visalisation
+##### Visalisation rpocess
 
 dfmean_expo<-data.frame(mean_expo)
 plotting<-ggplot(dfmean_expo, aes(x=mean_expo))
